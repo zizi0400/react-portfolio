@@ -5,7 +5,7 @@ import "./Header.scss";
 function Header() {
   return (
     <header>
-      <h1>zizi</h1>
+      <h1>ZIZI</h1>
       <nav>
         <NavLink
           to={"/"}

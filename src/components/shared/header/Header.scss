@@ -1,13 +1,17 @@
 header {
   display: flex;
   justify-content: space-between;
-  padding: 15px 20px;
+  padding: 20px 30px;
   align-items: center;
 
   nav {
     display: flex;
-    column-gap: 20px;
+    column-gap: 50px;
     align-items: baseline;
+  }
+
+  h1 {
+    font-family: "Satisfy";
   }
 }
 
