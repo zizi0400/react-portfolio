@@ -1,12 +1,20 @@
 .black-bg {
   background-color: black;
-  width: 60vw;
+  width: 50vw;
   height: 100vh;
   position: absolute;
   right: -80px;
   top: -100px;
   transform: rotate(10deg);
   z-index: -3;
+
+  img {
+    max-width: 450px;
+    position: absolute;
+    top: 20%;
+    right: 10.5%;
+    transform: rotate(-10deg);
+  }
 }
 
 .home-content {

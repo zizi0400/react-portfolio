@@ -8,7 +8,7 @@ import reactIcon from "../../../assets/img/react.png";
 import bootstrapIcon from "../../../assets/img/bootstrap.png";
 import gitIcon from "../../../assets/img/git.png";
 import figmaIcon from "../../../assets/img/figma.png";
-import "../skills/Skills.scss";
+import "./Skills.scss";
 import nodeJsIcon from "../../../assets/img/nodejs.png";
 import mySqlIcon from "../../../assets/img/mysql.png";
 import mongoDbIcon from "../../../assets/img/mongodb.png";
@@ -45,9 +45,9 @@ function skills() {
       <article>
         <h1>OTHER LANGUAGE:</h1>
         <ul className="skills-list">
-          <SkillsItem title="UNITED STATES A1/A2" icon={unitedStatesIcon} />
+          <SkillsItem title="ENGLISH A1/A2" icon={unitedStatesIcon} />
           <SkillsItem title=" GERMANY B1/B2" icon={germanyIcon} />
-          <SkillsItem title="IRAN C2" icon={iranIcon} />
+          <SkillsItem title="PERSISH NATIVE" icon={iranIcon} />
         </ul>
       </article>
     </section>

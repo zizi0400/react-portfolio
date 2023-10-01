@@ -3,15 +3,18 @@ import "./Home.scss";
 import github from "../../../assets/img/github.png";
 import linkedin from "../../../assets/img/linkedin.png";
 import xing from "../../../assets/img/xing.png";
+import zizi from "../../../assets/img/zizi.png";
 
 function Home() {
   return (
     <div className="home">
-      <div className="black-bg"></div>
+      <div className="black-bg">
+        <img src={zizi} alt="" />
+      </div>
       <div className="home-content">
         <h3>Hi, I am</h3>
         <h1>Zahra Salar</h1>
-        <p>Full Stack Web Developer</p>
+        <p>Frontend Web Developer</p>
         <div className="icon-box">
           <a href="https://github.com/zizi0400">
             <img src={github} alt="" />
