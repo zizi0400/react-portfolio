@@ -18,7 +18,16 @@ header {
 .pending {
   color: #d7d7d7;
   text-decoration: none;
-  transition: all 200ms ease-in-out;
+  transition: text-decoration 300ms ease-in-out;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.pending2 {
+  color: #000;
+  text-decoration: none;
+  transition: text-decoration 300ms ease-in-out;
 
   &:hover {
     text-decoration: underline;
@@ -27,6 +36,13 @@ header {
 .active {
   background-color: #d7d7d7;
   color: black;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+.active2 {
+  background-color: #000;
+  color: #d7d7d7;
   text-decoration: none;
   padding: 5px 10px;
   border-radius: 15px;
