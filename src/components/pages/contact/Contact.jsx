@@ -1,5 +1,5 @@
 import React from "react";
-import line from "../../../assets/img/separatorBlack 2.png";
+import line from "../../../assets/img/line.png";
 import "./Contact.scss";
 import github from "../../../assets/img/github.png";
 import linkedin from "../../../assets/img/linkedin.png";
