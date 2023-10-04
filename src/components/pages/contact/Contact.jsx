@@ -35,10 +35,10 @@ function Contact() {
         <a href="https://github.com/zizi0400">
           <img src={github} alt="" />
         </a>
-        <a href="www.linkedin.com/in/zahra-salar">
+        <a href="https://www.linkedin.com/in/zahra-salar">
           <img src={linkedin} alt="" />
         </a>
-        <a href="">
+        <a href="https://www.xing.com/profile/zahra_salar">
           <img src={xing} alt="" />
         </a>
       </div>
