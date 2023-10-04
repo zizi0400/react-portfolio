@@ -35,7 +35,7 @@ function Contact() {
         <a href="https://github.com/zizi0400">
           <img src={github} alt="" />
         </a>
-        <a href="">
+        <a href="www.linkedin.com/in/zahra-salar">
           <img src={linkedin} alt="" />
         </a>
         <a href="">
