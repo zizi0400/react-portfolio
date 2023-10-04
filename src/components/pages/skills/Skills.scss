@@ -19,3 +19,14 @@ section {
     margin-bottom: 90px;
   }
 }
+
+@media screen and (max-width: 470px) {
+  section {
+    h1 {
+      margin-bottom: 0px;
+    }
+  }
+  .skills-list {
+    gap: 40px;
+  }
+}

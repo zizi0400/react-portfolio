@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { NavLink, useLocation } from "react-router-dom";
 import "./Header.scss";
-// import logo from "../../../assets/img/logo.png";
 
 function Header() {
   const location = useLocation().pathname;
@@ -18,7 +17,6 @@ function Header() {
   }, [location]);
   return (
     <header>
-      <h1>{/* <img src={logo} alt="" /> */}</h1>
       <nav>
         <NavLink
           to={"/"}
