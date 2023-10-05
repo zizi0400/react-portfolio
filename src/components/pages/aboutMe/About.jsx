@@ -9,31 +9,31 @@ function About() {
         <h1>A B O U T M E</h1>
         <img src={line} alt="" />
         <p>
-          Hello! I'm Zahra. I am a one year old frontend developer Experience in
-          this area.
+          Hello, I'm Zahra, a one-year-old frontend developer with experience in
+          this field.
+          <br /> Ever since my teenage years, I've had a profound interest in
+          the world of computers and technology.
+          <br /> This fascination naturally led me to explore programming at a
+          young age.
+          <br /> My initial foray into programming revolved around simpler
+          languages like HTML and CSS, which served as a solid foundation for
+          creating basic websites.
+          <br /> For me, programming is not just a hobby; it's a true passion.
+          <br /> It's a means to drive real change and solve problems.
+          <br /> I'm constantly on the lookout for emerging technologies and
+          methods to enhance my programming skills.
+          <br /> This enables me to tackle new and intriguing projects that
+          contribute to the ever-evolving world of technology and society.
           <br />
-          Since I was a teenager, I have been very interested in the world of
-          Computers and technology. <br />
-          This interest made me interested in programming at a young age
-          interested. <br /> My first introduction to programming was done via
-          simpler languages like HTML and CSS, which worked for me made it
-          possible to create simple websites.
-          <br />
-          Programming is more than a passion for me. <br />
-          It's a way to make change and real change To solve problems.
-          <br />
-          I'm also always looking for new technologies and the like Improving my
-          programming skills so I can learn new and interesting projects for the
-          computer industry and society can contribute. <br />
-          When I'm not at work, I'm designing and experimenting happy with other
-          functions that might be interesting. <br />
-          My goal is promotion and improvement and I am always ready for that
-          new challenges and collaboration with different people people in
-          harmony with this goal. <br />
-          If you would like to collaborate or network with me, I would like to
-          hear more. <br />
-          <br />
-          Thank you for taking the time to find out more about me experience.
+          Outside of work, I find myself happily engaged in design and
+          experimenting with other fascinating functionalities.
+          <br /> My ultimate goal is to progress and refine my skills, always
+          ready to embrace fresh challenges and collaborate with diverse
+          individuals who share the same objectives.
+          <br /> If you're interested in collaborating or networking with me,
+          I'm eager to connect and explore potential opportunities.
+          <br /> Thank you for taking the time to learn more about my background
+          and experiences.
         </p>
       </div>
     </div>
